@@ -3,8 +3,7 @@
 
 This repository contains the modeling work produced as part of a hackathon organised IIT Bombay and IDFC Bank. The project focuses on building high-performance, production-grade behavior scores for credit card portfolios using classical machine learning and deep learning techniques. The work sits at the intersection of quantitative finance, statistical modeling, and applied machine learning, with an emphasis on real-world deployment constraints such as regulatory interpretability, score stability, and segment-level performance.
 
----
-##Dataset: [Link](https://drive.google.com/drive/folders/1ceBY2YHUge6KYaG9vNwE6RZdtOfGFC2w?usp=sharing)
+## Dataset: [Link](https://drive.google.com/drive/folders/1ceBY2YHUge6KYaG9vNwE6RZdtOfGFC2w?usp=sharing)
 ---
 
 ## Background and Motivation
